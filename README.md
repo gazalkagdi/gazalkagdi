@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello! I'm Gazal, a passionate Full Stack Web Developer with a Master's degree in Computer Science and six months of valuable internship experience. My journey in technology has been driven by a deep-seated curiosity and a desire to innovate.
+Hello! I'm Gazal, a passionate Full Stack Web Developer with a Master's degree in Computer Science and six months of valuable internship experience. My journey in technology has been driven by a deep-seated curiosity and a desire to innovate.
 
 💻 I specialize in a range of technologies including JAVA, MERN Stack (MongoDB, Express.js, React.js, Node.js), SQL, HTML, CSS, and JavaScript. My expertise spans both theoretical concepts and practical application, allowing me to tackle complex challenges with confidence.
 
